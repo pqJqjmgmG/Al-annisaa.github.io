@@ -1,0 +1,38 @@
+/* Awal Benner */
+section {
+    padding: 100px 0;
+  }
+  
+  .banner {
+    background-color:  #AFEEEE;
+    padding: 150px 0;
+  }
+  
+  .banner img {
+    width: 200px;
+    border-radius: 200px;
+    box-shadow: 0 3px 5px #fff;
+    margin-bottom: 15px;
+  }
+  
+  .banner h2 {
+    margin-bottom: 15px;
+  }
+  
+  .banner-left {
+    padding-left: 25px;
+  }
+  
+  /* Akhir Benner */
+
+  footer {
+    background-color: #FFC0CB;
+    padding-top: 14rem;
+    padding: 44px;
+    text-align: center;
+  }
+  
+  footer small {
+    color: black;
+  }
+  
